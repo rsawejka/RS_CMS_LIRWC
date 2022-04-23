@@ -1,0 +1,33 @@
+.login-cta a, .login-cta a:hover {
+    color: #fff;
+}
+
+div.wrapper {
+    padding: 0;
+}
+
+div.bg-primary, a.bg-primary, button.bg-primary {
+    background-color: #372987!important;
+}
+
+.home .entry-title {
+    display: none;
+}
+
+.home .header .wp-block-image, .home .header img {
+    margin-bottom: 0;
+}
+
+#main-nav img.img-fluid {
+    max-width: 17%;
+}
+
+.home_icon {
+    height: 70px;
+    width: 70px;
+    line-height: 82px;
+}
+
+.home header.entry-header .entry-title {
+    display: none;
+}

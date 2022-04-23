@@ -1,0 +1,21 @@
+/*
+ Theme Name:   LIRWC
+ Theme URI:    https://wctc.edu
+ Description:  Custom theme developed for Learning in Retirement of Waukesha County
+ Author:       AR Ventures
+ Author URI:   https://wctc.edu
+ Template:     understrap
+ Version:      1.0
+ License: GNU General Public License v2 or later
+ License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ Text Domain:  lirwc
+ Tags: lirwc, learning in retirement, bootstrap, understrap, wctc, waukesha county
+*/
+
+.login-cta .nav-link {
+    color: #000;
+}
+.venueAddress{
+display: none!important;
+    color: red!important;
+}
